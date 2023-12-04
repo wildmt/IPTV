@@ -1,175 +1,181 @@
-#EXTM3U
-#EXTINF:-1 ,CCTV1 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1 ,CCTV2 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1 ,CCTV3 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-#EXTINF:-1 ,CCTV4 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1 ,CCTV5 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-#EXTINF:-1 ,CCTV5+ 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-#EXTINF:-1 ,CCTV6 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1 ,CCTV7 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-#EXTINF:-1 ,CCTV8 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1 ,CCTV9 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-#EXTINF:-1 ,CCTV10 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1 ,CCTV11 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-#EXTINF:-1 ,CCTV12 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-#EXTINF:-1 ,CCTV13 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1 ,CCTV14 8M
-https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1 ,CCTV15 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1 ,CCTV16 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-#EXTINF:-1 ,CCTV17 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1 ,江苏卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-#EXTINF:-1 ,广西卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-#EXTINF:-1 ,四川卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-#EXTINF:-1 ,湖南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-#EXTINF:-1 ,浙江卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-#EXTINF:-1 ,东方卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-#EXTINF:-1 ,北京卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-#EXTINF:-1 ,天津卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-#EXTINF:-1 ,辽宁卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1 ,安徽卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-#EXTINF:-1 ,黑龙江卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-#EXTINF:-1 ,广东卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-#EXTINF:-1 ,深圳卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-#EXTINF:-1 ,湖北卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-#EXTINF:-1 ,吉林卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-#EXTINF:-1 ,山东卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-#EXTINF:-1 ,江西卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-#EXTINF:-1 ,河南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-#EXTINF:-1 ,河北卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-#EXTINF:-1 ,甘肃卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-#EXTINF:-1 ,重庆卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-#EXTINF:-1 ,东南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-#EXTINF:-1 ,云南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-#EXTINF:-1 ,贵州卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1 ,海南卫视 8M
-https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 ,欢笑剧场 8M
-https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-#EXTINF:-1 ,劲爆体育 8M
-https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1 ,快乐垂钓 8M
-https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-#EXTINF:-1 ,金鹰纪实 8M
-https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-#EXTINF:-1 ,戏曲精选 8M
-https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1 ,上海第一财经 8M
-https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-#EXTINF:-1 ,上视新闻 8M
-https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1 ,上海都市 8M
-https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-#EXTINF:-1 ,上海纪实 8M
-https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-#EXTINF:-1 ,东方影视 8M
-https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1 ,五星体育 8M
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 ,上视外语 8M
-https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-#EXTINF:-1 ,七彩戏剧 8M
-https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1 ,上海教育 8M
-https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-#EXTINF:-1 ,全纪实 8M
-https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
-#EXTINF:-1 ,生活时尚 8M
-https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-#EXTINF:-1 ,新视觉 8M
-https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1 ,游戏风云 8M
-https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-#EXTINF:-1 ,热门综艺 8M
-https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1 ,超级体育 8M
-https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1 ,健康养生 8M
-https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-#EXTINF:-1 ,百变课堂 8M
-https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
-#EXTINF:-1 ,看天下精选 8M
-https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1 ,华语影院 8M
-https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 ,电竞天堂 8M
-https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-#EXTINF:-1 ,青春动漫 8M
-https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 ,宝宝动画 8M
-https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 ,星光影院 8M
-https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-#EXTINF:-1 ,谍战剧场 8M
-https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-#EXTINF:-1 ,全球大片 8M
-https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1 ,热门剧场 8M
-https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1 ,陶瓷高清 8M
-https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
-#EXTINF:-1 ,中国教育-1 8M
-https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-#EXTINF:-1 ,中国教育-4 8M
-https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-#EXTINF:-1 ,卡酷少儿 8M
-https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 ,纪实科教 8M
-https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-#EXTINF:-1 ,茶频道 8M
-https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
-#EXTINF:-1 ,足球高清 8M
-https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1 ,炫动卡通 8M
-https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 ,东方财经 8M
-https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-#EXTINF:-1 ,都市剧场 8M
-https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-#EXTINF:-1 ,动漫秀场 8M
-https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
-#EXTINF:-1 ,法治天地 8M
-https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-#EXTINF:-1 ,金色学堂 8M
-https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+#EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/"
+
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7 国防军事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8 电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+
+#EXTINF:-1 tvg-id="cctvjilu" tvg-logo="cctvjilu.png",CCTV-9 纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv10" tvg-logo="cctv10.png",CCTV-10 科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv11" tvg-logo="cctv11.png",CCTV-11 戏曲
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv12" tvg-logo="cctv12.png",CCTV-12 社会与法
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14 少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv15" tvg-logo="cctv15.png",CCTV-15 音乐
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv16" tvg-logo="cctv16.png",CCTV-16 奥林匹克
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+#EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+
+#EXTINF:-1 tvg-id="bingtuan" tvg-logo="bingtuan.png",兵团卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+
+#EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png",卡酷少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+
+#EXTINF:-1 tvg-id="btvjishi" tvg-logo="btvjishi.png",BTV纪实
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv1" tvg-logo="cetv1.png",CETV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv2" tvg-logo="cetv2.png",CETV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv3" tvg-logo="cetv3.png",CETV-3
+http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+
+#EXTINF:-1 tvg-id="cetv4" tvg-logo="cetv4.png",CETV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
+#EXTINF:-1 tvg-id="chongqing" tvg-logo="chongqing.png",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+
+#EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+
+#EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+
+#EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+
+#EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+
+#EXTINF:-1 tvg-id="guangxi" tvg-logo="guangxi.png",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+
+#EXTINF:-1 tvg-id="guizhou" tvg-logo="guizhou.png",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+
+#EXTINF:-1 tvg-id="hebei" tvg-logo="hebei.png",河北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+
+#EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+
+#EXTINF:-1 tvg-id="henan" tvg-logo="henan.png",河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+
+#EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+
+#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+
+#EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+
+#EXTINF:-1 tvg-id="jiangxi" tvg-logo="jiangxi.png",江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+
+#EXTINF:-1 tvg-id="jilin" tvg-logo="jilin.png",吉林卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+
+#EXTINF:-1 tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+
+#EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+
+#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+
+#EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+
+#EXTINF:-1 tvg-id="sdetv" tvg-logo="sdetv.png",山东教育电视台
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+
+#EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png",山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+
+#EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png",山西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+
+#EXTINF:-1 tvg-id="shan3xi" tvg-logo="shan3xi.png",陕西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+
+#EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+
+#EXTINF:-1 tvg-id="sichuan" tvg-logo="sichuan.png",四川卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+
+#EXTINF:-1 tvg-id="tianjin" tvg-logo="tianjin.png",天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+
+#EXTINF:-1 tvg-id="travel" tvg-logo="travel.png",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+#EXTINF:-1 tvg-id="xiamen" tvg-logo="xiamen.png",厦门卫视
+http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
+
+#EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png",新疆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+
+#EXTINF:-1 tvg-id="xizang" tvg-logo="xizang.png",西藏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+
+#EXTINF:-1 tvg-id="yanbian" tvg-logo="yanbian.png",延边卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+
+#EXTINF:-1 tvg-id="yunnan" tvg-logo="yunnan.png",云南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+
+#EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
